@@ -1,6 +1,6 @@
 # alpha
 #include<stdio.h>
-voiod main()
+void main()
 {
 char alpha;
 printf("Enter a Alphabet");
